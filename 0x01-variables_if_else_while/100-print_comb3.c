@@ -4,7 +4,7 @@
  *  * main - Entyr point
  *   * Description: prints two digits combination
  *    * Return: Always 0 (success)
- *     */
+     */
 int main(void)
 {
 int c, i;
